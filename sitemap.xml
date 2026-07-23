@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://website-desa-bandungan.vercel.app/</loc>
+       <lastmod>2026-07-23T19:13:43+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://website-desa-bandungan.vercel.app/umkm-melda-kopi.html</loc>
+       <lastmod>2026-07-23T19:13:43+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://website-desa-bandungan.vercel.app/umkm-Keripik-Talas-Putri-Tunggal.html</loc>
+       <lastmod>2026-07-23T19:13:43+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://website-desa-bandungan.vercel.app/umkm-jual-bibit.html</loc>
+       <lastmod>2026-07-23T19:13:43+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://website-desa-bandungan.vercel.app/umkm-aziz-las.html</loc>
+       <lastmod>2026-07-23T19:13:43+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://website-desa-bandungan.vercel.app/berita-sosialisasi-pupuk.html</loc>
+       <lastmod>2026-07-23T19:13:43+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://website-desa-bandungan.vercel.app/index.html</loc>
+       <lastmod>2026-07-23T19:13:43+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+</urlset>
